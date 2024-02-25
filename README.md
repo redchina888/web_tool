@@ -8,6 +8,7 @@
 ## 在线预览
 
 https://github.com/redchina888/web_tool
+https://redchina888.github.io/web_tool/
 
 
 ## 二次开发
